@@ -1,5 +1,10 @@
 # DIY 4合1 飞控 & 75A 电调
 
+> **English summary:** Open FPV hardware project for a 10-layer 75A 4-in-1 ESC
+> board. The repository includes Gerber manufacturing files, schematic PDF, PCB
+> previews, and design notes for DSHOT600, high-current routing, and Infineon
+> gate-driver based MOSFET control.
+>
 > 自主设计的 FPV 无人机飞控与 4合1 电调一体板，从原理图到 PCB 布局全程独立完成。
 
 ---
