@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">75A 4-in-1 ESC open hardware</title>
+  <desc id="desc">A technical banner for a high-current 10-layer 75A 4-in-1 ESC board with DSHOT600 support.</desc>
+  <rect width="1200" height="420" fill="#fbfaf8"/>
+  <g transform="translate(72 62)">
+    <text x="0" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" fill="#111827">75A 4-in-1 ESC</text>
+    <text x="0" y="48" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#374151">10-layer FPV ESC hardware with Gerbers, schematic, and PCB previews</text>
+    <g transform="translate(0 88)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">
+      <rect x="0" y="0" width="142" height="36" rx="8" fill="#dc2626"/>
+      <text x="18" y="24" fill="#ffffff">75A x4</text>
+      <rect x="158" y="0" width="148" height="36" rx="8" fill="#ea580c"/>
+      <text x="176" y="24" fill="#ffffff">10 layers</text>
+      <rect x="322" y="0" width="150" height="36" rx="8" fill="#2563eb"/>
+      <text x="340" y="24" fill="#ffffff">DSHOT600</text>
+    </g>
+    <text x="0" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#4b5563">High-current routing, gate-drive layout, thermal review, signal integrity</text>
+  </g>
+  <g transform="translate(690 62)">
+    <rect x="0" y="0" width="360" height="260" rx="8" fill="#111827"/>
+    <g transform="translate(28 28)">
+      <rect x="0" y="0" width="304" height="204" rx="8" fill="#7f1d1d"/>
+      <g stroke="#f97316" stroke-width="13" stroke-linecap="round">
+        <path d="M42 46 H262"/>
+        <path d="M42 98 H262"/>
+        <path d="M42 150 H262"/>
+      </g>
+      <g stroke="#facc15" stroke-width="5" stroke-linecap="round">
+        <path d="M72 46 V150"/>
+        <path d="M152 46 V150"/>
+        <path d="M232 46 V150"/>
+      </g>
+      <g fill="#e5e7eb">
+        <rect x="36" y="28" width="48" height="36" rx="6"/>
+        <rect x="128" y="80" width="48" height="36" rx="6"/>
+        <rect x="220" y="132" width="48" height="36" rx="6"/>
+      </g>
+      <text x="88" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#ffffff">power stage concept</text>
+    </g>
+  </g>
+</svg>
