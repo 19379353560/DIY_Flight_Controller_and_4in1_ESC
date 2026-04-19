@@ -15,6 +15,8 @@ specific hardware-review notes before anyone orders or powers boards.
 
 - Main ESC review request:
   https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1
+- Discussion:
+  https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/discussions/2
 - New issue templates:
   https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/new/choose
 

@@ -94,4 +94,5 @@ English feedback is welcome. The most useful review areas are high-current
 routing, MOSFET gate-drive layout, thermal behavior, DSHOT signal integrity, and
 manufacturing checks before ordering boards.
 
-Start here: [75A 4-in-1 ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1).
+Start here: [75A 4-in-1 ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1)
+or [discussion](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/discussions/2).
