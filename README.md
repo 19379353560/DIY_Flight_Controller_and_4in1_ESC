@@ -7,6 +7,7 @@
 [![DSHOT600](https://img.shields.io/badge/protocol-DSHOT600-blue)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
 [![Stars](https://img.shields.io/github/stars/19379353560/DIY_Flight_Controller_and_4in1_ESC?style=social)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/19379353560/DIY_Flight_Controller_and_4in1_ESC)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/commits/main)
+[![Review snapshot](https://img.shields.io/github/v/release/19379353560/DIY_Flight_Controller_and_4in1_ESC?include_prereleases&label=review%20snapshot)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/releases/tag/review-2026-04-19)
 
 > **English summary:** Open FPV hardware project for a 10-layer 75A 4-in-1 ESC
 > board. The repository includes Gerber manufacturing files, schematic PDF, PCB
@@ -15,8 +16,9 @@
 >
 > 自主设计的 FPV 无人机飞控与 4合1 电调一体板，从原理图到 PCB 布局全程独立完成。
 
-> **Status:** Review [PROJECT_STATUS.md](PROJECT_STATUS.md) before manufacturing
-> or powering this design. Hardware review and build reports are welcome through
+> **Status:** Download the [review snapshot](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/releases/tag/review-2026-04-19)
+> and review [PROJECT_STATUS.md](PROJECT_STATUS.md) before manufacturing or
+> powering this design. Hardware review and build reports are welcome through
 > [the current ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1).
 
 ---
