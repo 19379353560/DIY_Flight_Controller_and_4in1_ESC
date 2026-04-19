@@ -17,7 +17,7 @@
 
 > **Status:** Review [PROJECT_STATUS.md](PROJECT_STATUS.md) before manufacturing
 > or powering this design. Hardware review and build reports are welcome through
-> [GitHub issues](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/new/choose).
+> [the current ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1).
 
 ---
 
@@ -91,3 +91,5 @@
 English feedback is welcome. The most useful review areas are high-current
 routing, MOSFET gate-drive layout, thermal behavior, DSHOT signal integrity, and
 manufacturing checks before ordering boards.
+
+Start here: [75A 4-in-1 ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1).
