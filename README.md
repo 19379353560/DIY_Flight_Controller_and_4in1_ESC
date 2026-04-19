@@ -1,5 +1,11 @@
 # DIY 4合1 飞控 & 75A 电调
 
+[![Open hardware](https://img.shields.io/badge/open-hardware-orange)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
+[![ESC](https://img.shields.io/badge/ESC-75A%20x4-red)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
+[![DSHOT600](https://img.shields.io/badge/protocol-DSHOT600-blue)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
+[![Stars](https://img.shields.io/github/stars/19379353560/DIY_Flight_Controller_and_4in1_ESC?style=social)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/19379353560/DIY_Flight_Controller_and_4in1_ESC)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/commits/main)
+
 > **English summary:** Open FPV hardware project for a 10-layer 75A 4-in-1 ESC
 > board. The repository includes Gerber manufacturing files, schematic PDF, PCB
 > previews, and design notes for DSHOT600, high-current routing, and Infineon
@@ -71,3 +77,11 @@
 
 - [SkyPilot H743 飞控](https://github.com/19379353560/skypilot) — 配套飞控主板
 - [INAV 优化固件](https://github.com/19379353560/inav) — 配套飞控固件
+
+---
+
+## Feedback Wanted
+
+English feedback is welcome. The most useful review areas are high-current
+routing, MOSFET gate-drive layout, thermal behavior, DSHOT signal integrity, and
+manufacturing checks before ordering boards.
