@@ -96,3 +96,6 @@ manufacturing checks before ordering boards.
 
 Start here: [75A 4-in-1 ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1)
 or [discussion](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/discussions/2).
+
+See [ROADMAP.md](ROADMAP.md) for the current review, prototype, and validation
+plan.
