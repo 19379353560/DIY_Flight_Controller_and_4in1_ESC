@@ -1,5 +1,7 @@
 # DIY 4合1 飞控 & 75A 电调
 
+![75A 4-in-1 ESC banner](assets/cover.svg)
+
 [![Open hardware](https://img.shields.io/badge/open-hardware-orange)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
 [![ESC](https://img.shields.io/badge/ESC-75A%20x4-red)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
 [![DSHOT600](https://img.shields.io/badge/protocol-DSHOT600-blue)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC)
