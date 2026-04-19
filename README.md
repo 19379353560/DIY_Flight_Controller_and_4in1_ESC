@@ -15,6 +15,10 @@
 >
 > 自主设计的 FPV 无人机飞控与 4合1 电调一体板，从原理图到 PCB 布局全程独立完成。
 
+> **Status:** Review [PROJECT_STATUS.md](PROJECT_STATUS.md) before manufacturing
+> or powering this design. Hardware review and build reports are welcome through
+> [GitHub issues](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/new/choose).
+
 ---
 
 ## 硬件规格
