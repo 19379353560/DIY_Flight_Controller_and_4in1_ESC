@@ -8,6 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/19379353560/DIY_Flight_Controller_and_4in1_ESC?style=social)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/19379353560/DIY_Flight_Controller_and_4in1_ESC)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/commits/main)
 [![Review snapshot](https://img.shields.io/github/v/release/19379353560/DIY_Flight_Controller_and_4in1_ESC?include_prereleases&label=review%20snapshot)](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/releases/tag/review-2026-04-19)
+[![Contribute](https://img.shields.io/badge/contribute-good%20first%20issues-b91c1c)](https://19379353560.github.io/contribute.html)
 
 > **English summary:** Open FPV hardware project for a 10-layer 75A 4-in-1 ESC
 > board. The repository includes Gerber manufacturing files, schematic PDF, PCB
@@ -96,6 +97,8 @@ manufacturing checks before ordering boards.
 
 Start here: [75A 4-in-1 ESC review request](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/issues/1)
 or [discussion](https://github.com/19379353560/DIY_Flight_Controller_and_4in1_ESC/discussions/2).
+
+Good first issues and review paths: https://19379353560.github.io/contribute.html.
 
 See [ROADMAP.md](ROADMAP.md) for the current review, prototype, and validation
 plan.
